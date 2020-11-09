@@ -1,0 +1,11 @@
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb

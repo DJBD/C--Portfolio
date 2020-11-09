@@ -1,0 +1,24 @@
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\danie\Documents\GitHub\SDP\worksheet-six-creational-design-patterns-DJBD\Worksheet\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb

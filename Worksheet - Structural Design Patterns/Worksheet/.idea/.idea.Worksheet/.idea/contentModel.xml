@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\danie\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\danie\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Worksheet.-627635806.00" t="ExcludeRecursive" />
+    <e p="C:\Users\danie\Documents\GitHub\SDP\worksheet-seven-structural-design-patterns-DJBD\Worksheet" t="IncludeFlat">
+      <e p="Adapter" t="IncludeRecursive">
+        <e p="Adapter.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IPayD.cs" t="Include" />
+        <e p="IXPay.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Adapter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ProgramRunAdapterExample.cs" t="Include" />
+        <e p="XpayImpl.cs" t="Include" />
+        <e p="XpayToPayD.cs" t="Include" />
+      </e>
+      <e p="Bridge" t="IncludeRecursive">
+        <e p="BigWheel.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bridge.csproj" t="IncludeRecursive" />
+        <e p="Car.cs" t="Include" />
+        <e p="CentralLocking.cs" t="Include" />
+        <e p="GearLocking.cs" t="Include" />
+        <e p="IProduct.cs" t="Include" />
+        <e p="Motoren.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Bridge.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TestBridgePattern.cs" t="Include" />
+        <e p="Windows.cs" t="Include" />
+      </e>
+      <e p="Composite" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Composite.csproj" t="IncludeRecursive" />
+        <e p="HtmlElement.cs" t="Include" />
+        <e p="HtmlParentElement.cs" t="Include" />
+        <e p="HtmlTag.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Composite.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TestCompositePattern.cs" t="Include" />
+      </e>
+      <e p="Decorator" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cheese.cs" t="Include" />
+        <e p="Decorator.csproj" t="IncludeRecursive" />
+        <e p="GreenOlives.cs" t="Include" />
+        <e p="Ham.cs" t="Include" />
+        <e p="IPizza.cs" t="Include" />
+        <e p="Meat.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Decorator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PizzaDecorator.cs" t="Include" />
+        <e p="RomaTomatoes.cs" t="Include" />
+        <e p="SimplyNonVegPizza.cs" t="Include" />
+        <e p="SimplyVegPizza.cs" t="Include" />
+        <e p="Spinach.cs" t="Include" />
+        <e p="TestDecoratorPattern.cs" t="Include" />
+      </e>
+      <e p="Facade" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Facade.csproj" t="IncludeRecursive" />
+        <e p="IScheduleServer.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Facade.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ScheduleServerFacade.cs" t="Include" />
+        <e p="ScheduleServerImpl.cs" t="Include" />
+        <e p="TestFacade.cs" t="Include" />
+      </e>
+      <e p="Flyweight" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Code.cs" t="Include" />
+        <e p="CPlatform.cs" t="Include" />
+        <e p="Flyweight.csproj" t="IncludeRecursive" />
+        <e p="IPlatform.cs" t="Include" />
+        <e p="JavaPlatform.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Flyweight.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlatformFactory.cs" t="Include" />
+        <e p="RubyPlatform.cs" t="Include" />
+        <e p="ScalaPlatform.cs" t="Include" />
+        <e p="TestFlyweight.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProtectedProxy" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Employee.cs" t="Include" />
+        <e p="IReportGenerator.cs" t="Include" />
+        <e p="IStaff.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ProtectedProxy.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Owner.cs" t="Include" />
+        <e p="ProtectedProxy.csproj" t="IncludeRecursive" />
+        <e p="ReportGeneratorProtectionProxy.cs" t="Include" />
+        <e p="ReportGeneratorProxy.cs" t="Include" />
+        <e p="TestProtectionProxy.cs" t="Include" />
+      </e>
+      <e p="VirtualProxy" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Company.cs" t="Include" />
+        <e p="ContactsImpl.cs" t="Include" />
+        <e p="ContactsProxyImpl.cs" t="Include" />
+        <e p="Employee.cs" t="Include" />
+        <e p="IContacts.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="VirtualProxy.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TestVirtualProxy.cs" t="Include" />
+        <e p="VirtualProxy.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Worksheet.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

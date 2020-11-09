@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Question_3</RootNamespace>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+</Project>

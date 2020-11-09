@@ -1,0 +1,13 @@
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\GitHub\SDP Worksheets\worksheet-six-creational-design-patterns-DJBD\Worksheet\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
